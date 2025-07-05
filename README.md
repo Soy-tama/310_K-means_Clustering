@@ -36,7 +36,7 @@ Both versions use Euclidean distance and random centroid initialization, iterati
 - Clusters data into 2 clusters  
 - Visualizes results with cluster-colored scatter plot and centroids
 
-![2 features k means]()
+![2 features k means](Assets/2fkmeans.png)
 
 ### 2. Generalized k-Means Clustering for Arbitrary Features
 
@@ -44,7 +44,7 @@ Both versions use Euclidean distance and random centroid initialization, iterati
 - Clusters data into 3 clusters (`k=3`)  
 - Visualizes clusters by projecting onto the first two features
 
-![generalized]()
+![generalized](Assets/genkmeans.png)
 
 ---
 
